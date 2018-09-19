@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/RobertWCarey/testproject#readme",
   "dependencies": {
+    "body-parser": "^1.18.3",
     "chromedriver": "^2.41.0",
+    "express": "^4.16.3",
     "selenium-webdriver": "^4.0.0-alpha.1"
   }
 }
